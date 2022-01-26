@@ -222,8 +222,8 @@ h2 {
 }
 
 .footerimg {
-  width: 175px;
-  height: 250px;
+  width: 180px;
+  height: 190px;
   float: left;
 }
 
@@ -238,7 +238,8 @@ h2 {
   background-color: #222324;
   color: #4A4A4A;
   text-align: center;
-  padding: 10px 10px 10px 10px;
+  /* padding: 100px 100px 100px 100px; */
+  margin: 100px;
 }
 
 .popularpost time {
