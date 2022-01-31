@@ -62,7 +62,7 @@ a {
 } */
 
 .socialsbio {
-  margin: 3em 2em 2em 2em;
+  margin: 3em 2em 3.1em 2em;
 }
 
 .socialsbio i {
@@ -116,7 +116,7 @@ aside > div {
   background-color: #FFFFFF;
   text-align: center;
   margin-left: 6px;
-  margin-bottom: 2em;
+  margin-bottom: 2.4em;
   position: relative;
   border: 1px solid #EAEAEA;
 }
@@ -183,9 +183,13 @@ main {
   font-family: 'Oswald', sans-serif;
   color: #545454;
   font-size: 1.13em;
-  margin-block-start: 25bipx;
+  /* margin-block-start: 25bipx; */
   margin-block-end: 50px;
   letter-spacing: 0.0425em;
+}
+
+.popularpoststitle {
+  margin: 2em 2em 1.4em 2em;
 }
 
 article {
@@ -273,7 +277,8 @@ h2 {
 }
 
 .popularpostimg {
-  width: 200px;
+  width: 300px;
+  height: 200px;
 }
 
 .latestpost {
