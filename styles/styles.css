@@ -62,7 +62,7 @@ a {
 } */
 
 .socialsbio {
-  margin: 3em 2em 3.1em 2em;
+  margin: 3.5em 1em 3em 5em;
 }
 
 .socialsbio i {
@@ -176,6 +176,7 @@ main {
   height: 155px;
   border: 7px solid white;
   border-radius: 50%;
+  margin-left: 25%;
   /* transform: translateX(-50%); */
 }
 
@@ -240,6 +241,7 @@ h2 {
 .biodesc {
   color: #787878;
   margin: -1.9em 2em -2em 2em;
+  text-align: center;
   line-height: 1.6em;
 }
 
